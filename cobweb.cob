@@ -297,8 +297,8 @@
                 "<h2>I Heard COBOL is a Dead Language!</h2>"
                 newline
                 "<p>Phoenician is a dead language. Mayan is a dead "
-                "language. Latin is a dead language. What makes these "
-                "languages dead is the fact that no one speaks them "
+                "language. What makes these languages dead "
+                "is the fact that no one speaks them "
                 "anymore. COBOL is NOT a dead language, and despite " 
                 "pontifications that come down to us from the ivory "
                 "towers of academia, it isn’t even on life "
